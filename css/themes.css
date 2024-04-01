@@ -1074,7 +1074,7 @@
 	display: block;
 	border-radius: 100%;
 	margin-bottom: 6px;
-	background: #07bb8a url("/images/icon_chat_menu.png") no-repeat 0 0;
+	background: #07bb8a url(../images/icon_chat_menu.png) no-repeat 0 0;
 }
 
 #chat_window .chat_box .chat_box_menu #go_top {
