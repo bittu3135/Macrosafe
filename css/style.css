@@ -1535,7 +1535,7 @@ body .ueeshop_responsive_turn_page span em.icon_page_prev {
 }
 
 body .ueeshop_responsive_turn_page span em.icon_page_next {
-     background: url(/images/icon_arrow.png) no-repeat center;
+     background: url(../images/icon_arrow.png) no-repeat center;
      transform: rotate(180deg);
      -ms-transform: rotate(180deg);
      -moz-transform: rotate(180deg);
